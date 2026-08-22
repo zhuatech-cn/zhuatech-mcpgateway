@@ -1,4 +1,4 @@
-/* Copyright 2026 上海如静知华信息科技有限公司 */
+/* Copyright 2026 上海如静知华信息科技有限公司 · https://www.zhuatech.cn/ */
 export const domain={
  code:'MCP',systemName:'知华 MCP 企业网关',englishName:'MODEL CONTEXT PROTOCOL GATEWAY',theme:{primary:'#147d77',dark:'#21333a',accent:'#d07a3f'},workspace:'AI 基础平台 / MCP 网关集群',fieldWorkspace:'Agent 平台组',period:'2026-08-02 · 实时',liveText:'调用流水于 10:41 更新',fieldContextLabel:'当前网关域',fieldContext:'生产区 · 华东',fieldUser:'陆遥',fieldRole:'MCP 接入工程师',adminUser:'何谨',adminRole:'AI 平台负责人',
  adminTitle:'企业 MCP 接入与策略中心',adminBreadcrumb:'MCP 网关 / 运行态势',adminSubtitle:'在一个入口注册 MCP 服务、执行最小权限策略、签发短期凭证并审计工具调用。',exportAction:'导出调用审计',createAction:'申请服务接入',chartTitle:'MCP 调用成功趋势',chartSubtitle:'成功率 / 服务等级目标',chartLabels:['08:00','09:00','10:00','11:00','12:00','13:00','14:00','15:00','16:00'],loadTitle:'服务调用负荷',loadSubtitle:'当前并发占网关域容量',recordsTitle:'近期 MCP 接入任务',recordsSubtitle:'按权限范围、外部写操作与上线窗口排序',issueTitle:'策略与运行风险',issueSubtitle:'需要平台负责人审批或协调的事项',

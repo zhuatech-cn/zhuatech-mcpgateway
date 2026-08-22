@@ -1,4 +1,4 @@
-/* Copyright 2026 上海如静知华信息科技有限公司 */
+/* Copyright 2026 上海如静知华信息科技有限公司 · https://www.zhuatech.cn/ */
 package cn.zhuatech.mcpgateway.model;
 import jakarta.persistence.*;
 @Entity @Table(name="mcpgateway_user")
