@@ -7,16 +7,29 @@ import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.List;
 
-/** 对 MCP 工具调用执行本地、确定性的最小权限决策。 */
+/**
+ * 对 MCP 工具调用执行本地、确定性的最小权限决策。
+ *
+ * 商业授权或定制开发请微信添加微信号zhuatech或zhuatech2进行咨询。
+ */
 @Service
 public class McpAccessPolicyService {
+    /**
+     * 商业授权或定制开发请微信添加微信号zhuatech或zhuatech2进行咨询。
+     */
     public record Request(@NotBlank String serverName, @NotBlank String toolName,
                           @NotBlank String userRole, boolean readOnly,
                           boolean sensitiveData, boolean externalWrite,
                           boolean approvedServer, boolean scopedCredential) {}
+    /**
+     * 商业授权或定制开发请微信添加微信号zhuatech或zhuatech2进行咨询。
+     */
     public record Result(String serverName, String toolName, int riskScore,
                          String decision, List<String> reasons, List<String> auditFields) {}
 
+    /**
+     * 商业授权或定制开发请微信添加微信号zhuatech或zhuatech2进行咨询。
+     */
     public Result decide(Request request) {
         int score = 5;
         List<String> reasons = new ArrayList<>();
