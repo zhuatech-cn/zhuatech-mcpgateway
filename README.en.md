@@ -4,7 +4,7 @@
 
 # ZhuaTech MCP Gateway
 
-> A source-available enterprise project by [ZhuaTech](https://www.zhuatech.cn/) for developer productivity, integration, automation, and platform operations.
+> A source-available enterprise project by [ZhuaTech](https://www.zhuatech.cn/en.html) for developer productivity, integration, automation, and platform operations.
 
 ZhuaTech MCP Gateway provides a practical, self-hosted foundation for developer productivity, integration, automation, and platform operations. It is designed for engineering, integration, platform, QA, and operations teams, with clear business records, controlled workflows, operational visibility, and auditable actions.
 
@@ -95,11 +95,11 @@ For commercial licensing, private deployment, enterprise customization, software
 - Email: [han@zhuatech.cn](mailto:han@zhuatech.cn)
 - Email: [jack@zhuatech.cn](mailto:jack@zhuatech.cn)
 - [WhatsApp: +86 17521234993](https://wa.me/8617521234993)
-- Website: [https://www.zhuatech.cn/](https://www.zhuatech.cn/)
+- Website: [https://www.zhuatech.cn/en.html](https://www.zhuatech.cn/en.html)
 
 ## About ZhuaTech
 
-[ZhuaTech](https://www.zhuatech.cn/) is operated by Shanghai Rujing Zhihua Information Technology Co., Ltd. We support small and medium-sized enterprises with digital transformation, AI adoption, enterprise software implementation, custom development, software project outsourcing, FDE services, OPC integration, and long-term technical support.
+[ZhuaTech](https://www.zhuatech.cn/en.html) is operated by Shanghai Rujing Zhihua Information Technology Co., Ltd. We support small and medium-sized enterprises with digital transformation, AI adoption, enterprise software implementation, custom development, software project outsourcing, FDE services, OPC integration, and long-term technical support.
 
 ## Input comparison and versioned snapshots
 
